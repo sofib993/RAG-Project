@@ -1,10 +1,10 @@
-# 30 Days of AI & RAG Projects
+# AI & RAG Projects
 My daily journey into building AI applications using LangChain and Groq.
 
-## Day 1: Personal RAG Assistant
+## Personal RAG Assistant
 A simple RAG (Retrieval-Augmented Generation) system that answers questions about my background using local data.
 
-### Day 1 Output
+### Output
 ![Day 1 Result](./Day1-Personal-RAG/output.png)
 
 ---
