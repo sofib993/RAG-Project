@@ -5,7 +5,7 @@ My daily journey into building AI applications using LangChain and Groq.
 A simple RAG (Retrieval-Augmented Generation) system that answers questions about my background using local data.
 
 ### Output
-![Day 1 Result](./Day1-Personal-RAG/output.png)
+![Result](./Day-1-RAG/output.png)
 
 ---
 ### Installation Tools (Ready for 30 Days)
@@ -13,3 +13,9 @@ A simple RAG (Retrieval-Augmented Generation) system that answers questions abou
 - Vector DB: ChromaDB
 - Embeddings: HuggingFace & Sentence-Transformers
 - Processing: Torch, Transformers, PyPDF
+
+## PDF RAG Assistant
+An automated pipeline that reads a PDF (PyPDFLoader), splits it into chunks, and stores it in a Chroma vector database (ChromaDB) for retrieval.
+
+### Output
+![Result](./Day-3-RAG/output.png)
